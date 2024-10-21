@@ -10,10 +10,13 @@ The goal of this project is to build a deep learning model to classify skin lesi
 ---
 
 ## Objectives
-- Preprocess a dataset of skin lesion images to make them suitable for model training.
-- Build a CNN-based deep learning model to classify skin lesions.
-- Train the model and evaluate its performance using accuracy, precision, recall, and other relevant metrics.
-- Visualize the model’s predictions and performance metrics.
+Implemented deep learning models for medical image analysis of skin cancer images.
+
+•	Utilized advanced deep learning techniques and tools such as Python, TensorFlow, and CNN architectures
+
+•	Conducted data preprocessing, augmentation, feature engineering, model selection, and hyperparameter tuning
+
+•	Presented findings and methodologies in a comprehensive report.
 
 ---
 
